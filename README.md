@@ -1,5 +1,5 @@
 # desktopautomation
-It setup the system when we switch on the pc by opening the common applications we use on daily basis.
+It will setup the system when we switch on the pc by opening the common applications we use on daily basis.
 
 
 I have written a script by using the module #robotjs (solely dedicated for desktop automation) which opens the browser and the websites which i use frequently.
